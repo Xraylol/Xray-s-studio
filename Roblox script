@@ -1,0 +1,1 @@
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("hey. " ,"All")
